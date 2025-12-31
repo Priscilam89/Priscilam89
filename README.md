@@ -1,7 +1,7 @@
-# Olá, eu sou a Priscila Matos! 👋
+# Priscila Matos | Desenvolvedora Front-End em Formação 🚀
 
 ### 👩‍💻 Sobre mim
-Sou estudante de **Desenvolvimento Web** com foco em **Front-End**. Atualmente, estou dedicando meus estudos ao domínio do HTML, CSS e JavaScript para criar interfaces modernas e interativas.
+Estudante de Engenharia de Software com foco em Desenvolvimento Front-End. Acredito que o bom software nasce da união entre código limpo e experiência do usuário. Dedico meus dias a dominar HTML5, CSS3 e JavaScript, explorando como a lógica de programação pode criar soluções eficientes e interativas.
 
 ---
 
