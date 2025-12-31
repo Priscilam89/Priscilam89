@@ -20,4 +20,4 @@ Sou estudante de **Desenvolvimento Web** com foco em **Front-End**. Atualmente, 
 ---
 
 ### 📊 Meu GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Priscilam89&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priscila-matos13)
