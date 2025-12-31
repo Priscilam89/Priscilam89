@@ -20,4 +20,4 @@ Sou estudante de **Desenvolvimento Web** com foco em **Front-End**. Atualmente, 
 ---
 
 ### 📊 Meu GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Priscilam89&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Priscilam89&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
